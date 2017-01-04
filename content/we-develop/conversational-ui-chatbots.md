@@ -1,12 +1,15 @@
 ---
-title: "Chatbot Development & Conversational UI Company"
-H1: "Conversational UI"
-partial_includes: ["case-studies-chatbots.html", "testimonial-mindbot.html"]
+title: Chatbot Development & Conversational UI Company
+H1: Conversational UI
+partial_includes:
+  - case-studies-chatbots.html
+  - testimonial-mindbot.html
 sitemap:
-    priority: 0.8
+  priority: 0.8
+published: true
 ---
 
-## Rise of the Bots
+## Rise of the Botsa
 Messaging apps have become ubiquitous and can claim higher engagement and more monthly active users than the big four social networks.  Frequently hyped as an answer to "app fatigue", <strong>messaging bots</strong>, or <strong>chatbots</strong>, do not require your users to install a new app, and are often cheaper to build than traditional mobile applications.  
 
 ## Chatbot development
@@ -51,4 +54,3 @@ Established in 2010 and based in London, Atchai is a digital <strong>consultancy
 [Paging Doctor Bot - Opportunities in Healthcare.](/blog/2016-08-16-paging-doctor-bot)<br>
 [Who's winning the Messenger App wars?](/blog/2016-08-11-whos-winning-the-messenger-app-wars)<br>
 [How much does it cost to build a bot?](/blog/2016-09-02-successful-chatbot-project)
-
