@@ -1,0 +1,21 @@
+{
+    "title": "Hugo Sandbox",
+    "baseURL": "http://localhost:1313/",
+    "defaultExtension": "html",
+    "uglyURLs": true,
+    "canonifyurls": false,
+    "relativeURLs": false,
+    "enableRobotsTXT": false,
+    "disableSitemap": true,
+    "disableHugoGeneratorInject": true,
+    "disableRSS": true,
+    "metaDataFormat": "json",
+    "verbose": false,
+    "buildDrafts": true,
+    "publishdir": "public",
+    "contentdir": "content",
+    "dataDir": "data",
+    "layoutdir": "layouts",
+    "staticdir": "static",
+    "logFile": "hugo.log"
+}
